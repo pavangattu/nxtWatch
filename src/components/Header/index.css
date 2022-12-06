@@ -1,0 +1,15 @@
+.web-logo-head {
+  width: 110px;
+}
+
+.nav-header {
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(243, 243, 243);
+}
+
+.header-icons {
+  margin-left: 15px;
+  font-size: 24px;
+}

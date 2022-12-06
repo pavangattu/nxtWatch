@@ -1,0 +1,36 @@
+.nxt-watch-logo {
+  width: 150px;
+}
+
+.premium-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px;
+}
+.cross-button {
+  align-self: flex-end;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.cross-icon {
+  font-size: 30px;
+}
+
+.premium-head {
+  font-weight: 500;
+  line-height: 2;
+  width: 80%;
+}
+
+.get-it-now-button {
+  background-color: transparent;
+  padding: 12px 24px 12px 24px;
+  border: #0f0f0f solid 2px;
+  color: #0f0f0f;
+  margin-top: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
